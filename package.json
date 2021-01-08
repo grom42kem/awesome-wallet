@@ -1,0 +1,14 @@
+{
+  "name": "awesome-wallet",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "fblogin": "firebase login",
+    "fbinit": "firebase init",
+    "deploy": "firebase deploy",
+    "build": "firebase deploy"
+  },
+  "author": "",
+  "license": "ISC"
+}
